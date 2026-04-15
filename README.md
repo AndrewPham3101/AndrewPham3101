@@ -4,7 +4,7 @@
 
 ###
 
-# Hello World! I'm Tien Hung, a CE student 👋🏼  
+# Hello World! I'm Pham Ngoc Huy, a Computer Engineering student 👋🏼  
 
 🎓 Currently, I am a Computer Engineering student at [Ho Chi Minh City Univerisity of Technology](https://hcmut.edu.vn/).  
 🛜 Exploring and learning about technology.  

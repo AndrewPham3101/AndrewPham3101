@@ -1,73 +1,21 @@
-<!-- ![UniLogo](https://upload.wikimedia.org/wikipedia/commons/f/f0/HCMCUT.svg) -->
+# 💫 About Me:
+🎓 Currently, I am a Computer Engineering student at Ho Chi Minh City University of Technology.<br>🌱 Exploring and learning about technology.<br>👨‍💻 Interested in web development, programming, and artificial intelligence.<br>📚 Always looking for opportunities to improve my skills and expand my knowledge.
 
-<img src="pictures/bk_name_en.png" alt="GitHub Banner" width="90%" />
 
-###
-
-# Hello World! I'm Pham Ngoc Huy, a Computer Engineering student 👋🏼  
-
-🎓 Currently, I am a Computer Engineering student at [Ho Chi Minh City Univerisity of Technology](https://hcmut.edu.vn/).  
-🛜 Exploring and learning about technology.  
-👨‍💻 Interested in web development, programming, and artificial intelligence.  
-📚 Always looking for opportunities to improve my skills and expand my knowledge.  
-
-💬 Let's connect!
-
-###
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Phạm Ngọc Huy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pnhuy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Huy Phạm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pngochuy.contact@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AndrewPham3101&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AndrewPham3101&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AndrewPham3101&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AndrewPham3101&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 Here is my GitHub stats:
+---
+[![](https://komarev.com/ghpvc/?username=AndrewPham3101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TienHwng" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TienHwng&layout=compact&langs_count=8&card_width=220" />
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake.svg" />
-</picture>
-
-###
-
-# ⚡️ Where to find me
-<p>
-  <a target="_blank" href="https://github.com/TienHwng" style="display: inline-block;"><img alt="Git Hub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/tienhung" style="display: inline-block;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" /></a>
-  <a target="_blank" href="https://stackoverflow.com/users/29606124" style="display: inline-block;"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" /></a>
-  <a target="_blank" href="https://www.youtube.com/@HungHere" style="display: inline-block;"><img alt="Youtube" src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" /></a>
-  <a target="_blank" href="https://twitter.com/tieen_hwngg" style="display: inline-block;"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a target="_blank" href="https://www.instagram.com/tieen.hwngg" style="display: inline-block;"><img alt="Instagram" src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" /></a>
-  <a target="_blank" href="https://www.facebook.com/tienhung251" style="display: inline-block;"><img alt="Facebook" src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" /></a>
-</p>
-
-###
-
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
